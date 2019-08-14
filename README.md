@@ -1,6 +1,8 @@
 # discord-chat-exporter
 A simple, easy-of-use Discord chat exporter written in Python.
 
+DISCLAIMER: Use at your own risk.
+
 ## Installation
 Before to start use, Python 3.6+ and dependencies should have been installed on your computer.
 
