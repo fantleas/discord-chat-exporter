@@ -20,7 +20,7 @@ To see help, execute `python3 ./discord-chat-exporter.py --help`.
 
 Example:
 ```
-# This will export entire chat messages since message ID 123412341234.
+# This will export entire chat messages until message ID 123412341234 in channel ID 12345678.
 python3 ./discord-chat-exporter.py --token-type User --channel-id 12345678 --newest-message-id 123412341234 --oldest-message-id 0 --path ./output.json
 Token: (not shown)
 ...
