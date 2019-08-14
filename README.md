@@ -27,7 +27,7 @@ Token: (not shown)
 You should notice that this script does *not* check validity of `--newest-message-id` and `--oldest-message-id` due to lack of Discord official API functionalities. If you used some non-existent IDs, it may go wrong.
 
 ## Specification
-Token is a Discord account token. It can be user and bot tokens. If you are wonder how to get my token, search for it :)
+Token is a Discord account token. It can be user and bot tokens. If you are wondering how to get my token, search for it :)
 
 Format of the JSON file is just an array of [message object](https://discordapp.com/developers/docs/resources/channel#message-object).
 There are no metadata.
